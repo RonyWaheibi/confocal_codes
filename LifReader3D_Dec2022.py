@@ -14,7 +14,7 @@ import os, json
 # If any error occurs, you need to go into the file explorer to delete the folder that is created.
 
 # Path to object
-lif_path = r"C:\Users\rwahe\Downloads\donuts_phi020_c08.lif"
+lif_path = r"C:\Users\Rony\Downloads\donuts_phi020_c08_xy.lif"
 
 def SaveMetadata(metadata, naming_convention):
     # Save image metadata as .json 
